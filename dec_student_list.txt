@@ -1,0 +1,11 @@
+Name		ID	Living City	Year of Study
+Sarah Tan	ST001	Kuala Lumpur	1
+Amirul Hashim	AH002	Johor Bahru	2
+Aisha Rahman	AR003	Penang		3
+John Lim	JL004	Kota Kinabalu	4
+Priya Kumar	PK005	Ipoh		1
+Wei Ling Lee	WL006	Kuching		2
+Rajiv Singh	RS007	George Town	3
+Nora Abdillah	NA008	Shah Alam	4
+Adam Tan	AT009	Seremban	1
+Farah Zulkifli	FZ010	Melaka		2
